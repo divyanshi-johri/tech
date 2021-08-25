@@ -1,0 +1,5 @@
+com\TraineesTracker\Entities\TraineesDetails.class
+com\TraineesTracker\Repository\TraineesDetailsRepository.class
+com\TraineesTracker\Services\TraineeService.class
+com\TraineesTracker\Conroller\TraineesTracker.class
+com\TraineesTracker\TraineesTrackerApplication.class
